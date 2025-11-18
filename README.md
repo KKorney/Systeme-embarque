@@ -1,7 +1,9 @@
 ⚙️ Système Embarqué d'Acquisition de Données (Arduino)
+
 Ce projet est un système d'acquisition de données autonome et portable, basé sur une plateforme Arduino. Il est conçu pour collecter des données environnementales en temps réel, les stocker de manière fiable, et offrir plusieurs modes de fonctionnement contrôlables par l'utilisateur.
 
 ✨ Fonctionnalités Principales
+
 Le système embarqué intègre une gestion complète de l'acquisition, du stockage et de l'interface utilisateur :
 
 Acquisition Multi-capteurs : Lecture de données de température, humidité, pression (via BME280), et luminosité (via un photo-capteur analogique).
